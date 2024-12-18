@@ -1,24 +1,25 @@
+import heapq
 class Solution:
     def findRelativeRanks(self, score: List[int]) -> List[str]:
-        hm = {}
-        for i, s in enumerate(score):
-            hm[s] = i
-
-        # Sort the scores in descending order
-        sorted_scores = sorted(score, reverse=True)
+        
+        heap = []
+        for idx, scores in enumerate(score):
+            heapq.heappush(heap, (-scores,idx))
 
      
         rank_list = [""] * len(score)
-
-        for i, s in enumerate(sorted_scores):
-            if i == 0:
-                rank_list[hm[s]] = "Gold Medal"
-            elif i == 1:
-                rank_list[hm[s]] = "Silver Medal"
-            elif i == 2:
-                rank_list[hm[s]] = "Bronze Medal"
+        
+        rank = 1
+        while heap:
+            orig_idx = heapq.heappop(heap)[1]
+            if rank == 1:
+                rank_list[orig_idx] = "Gold Medal"
+            elif rank == 2:
+                rank_list[orig_idx] = "Silver Medal"
+            elif rank == 3:
+                rank_list[orig_idx] = "Bronze Medal"
             else:
-                # i is zero-based, so rank is i+1
-                rank_list[hm[s]] = str(i + 1)
+                rank_list[orig_idx] = str(rank )
+            rank += 1
 
         return rank_list

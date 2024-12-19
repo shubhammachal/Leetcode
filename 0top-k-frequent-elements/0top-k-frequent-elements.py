@@ -13,3 +13,9 @@ class Solution:
                 heapq.heappop(heap)
                 
         return [num[1] for num in heap]
+    
+    #time complexity: for hashmap it is O(n)
+    # and for heap for every push/pop is O(logk) 
+    # and do for every unique element O(mlogk), no of unique elements = m
+    # total complexity O(n + m log k), m always less than n so 
+    # O(nlogk)

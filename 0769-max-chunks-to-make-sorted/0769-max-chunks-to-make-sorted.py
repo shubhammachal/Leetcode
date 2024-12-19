@@ -1,16 +1,14 @@
 class Solution:
     def maxChunksToSorted(self, arr: List[int]) -> int:
         
-        prefix_sum = sorted_prefix_sum = 0
-        sorted_arr = sorted(arr)
-        chunks = 0
+        #monotonic stack
         
-        for i in range(len(arr)):
-            prefix_sum += arr[i]
-            sorted_prefix_sum += sorted_arr[i]
-            
-            if prefix_sum == sorted_prefix_sum:
-                chunks += 1
-                
-        
-        return chunks
+        stack = []
+        for num in arr:
+            curr_max = num
+            while stack and stack[-1] > num:
+                popped_element = stack.pop()
+                curr_max = max(curr_max, popped_element)
+            stack.append(curr_max)
+         
+        return len(stack)

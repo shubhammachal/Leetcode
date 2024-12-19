@@ -1,17 +1,14 @@
 class Solution:
     def maxWidthRamp(self, nums: List[int]) -> int:
+        stack = []
         
-        arr = [(value,index) for index, value in enumerate(nums)]
-        arr.sort(key = lambda x:x[0])
-        
-        #minimize index and maximize width
-        min_index_so_far = float('inf')
+        for i in range(len(nums)):
+            if not stack or nums[stack[-1]] > nums[i]:
+                stack.append(i)
         max_width = 0
         
-        for value, index in arr:
-            if index > min_index_so_far:
-                max_width = max(max_width, index - min_index_so_far)
-            min_index_so_far = min(index, min_index_so_far)
-            
+        for i in range(len(nums) - 1, -1 , - 1):
+            while stack and nums[stack[-1]] <= nums[i]:
+                max_width = max(max_width, i - stack[-1])
+                stack.pop()
         return max_width
-                

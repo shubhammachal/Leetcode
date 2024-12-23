@@ -1,7 +1,10 @@
 class Solution:
     def minStartValue(self, nums: List[int]) -> int:
-        prefix_sum = [nums[0]]
-        for i in range(1,len(nums)):
-            prefix_sum.append(nums[i] + prefix_sum[-1])
-            
-        return max(1, 1 - min(prefix_sum))
+        # solve using prefix sum and prefix sum can be calculated on the fly
+        
+        total = 0
+        min_val = 0
+        for num in nums:
+            total += num
+            min_val = min(total, min_val)
+        return 1 - min_val

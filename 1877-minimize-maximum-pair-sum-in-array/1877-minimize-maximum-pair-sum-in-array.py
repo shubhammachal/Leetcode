@@ -3,14 +3,12 @@ class Solution:
         nums.sort()
         res = []
         n = len(nums)
-        left = 0
-        right = n - 1
-        while left < right:
-            res.append([nums[left], nums[right]])
-            left += 1
-            right -= 1
-        sums = [sum(pair) for pair in res]
-        return max(sums)
+        max_sum = 0 
+        for i in range(n//2):
+            curr_sum = nums[i] + nums[n-1-i]
+            if curr_sum > max_sum:
+                max_sum = curr_sum
+        return max_sum
         
             
             

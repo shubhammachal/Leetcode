@@ -1,7 +1,7 @@
 class Solution:
     def repeatedCharacter(self, s: str) -> str:
-        for i in range(len(s)):
-            char = s[i]
-            for j in range(i):
-                if s[j] == s[i]:
-                    return s[j]
+        hash_set = set()
+        for char in s:
+            if char in hash_set:
+                return char
+            hash_set.add(char)

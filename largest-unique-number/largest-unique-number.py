@@ -1,12 +1,18 @@
 class Solution:
     def largestUniqueNumber(self, nums: List[int]) -> int:
-        counts = {}
-        for num in nums:
-            counts[num] = counts.get(num, 0 ) + 1
-        largest = -1
-        for key, values in counts.items():
-            if counts[key] < 2:
-                largest = max(largest, key)
-        return largest
-                
+        # Edge case: return -1 if the input list is empty
+        if not nums:
+            return -1
         
+        # Count occurrences of each number
+        frequency = {}
+        for num in nums:
+            frequency[num] = frequency.get(num, 0) + 1
+
+        # Find the largest number with exactly one occurrence
+        largest = -1
+        for num, count in frequency.items():
+            if count == 1:
+                largest = max(largest, num)
+        
+        return largest

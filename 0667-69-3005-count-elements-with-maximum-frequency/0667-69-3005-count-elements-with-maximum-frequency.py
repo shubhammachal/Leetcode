@@ -4,7 +4,4 @@ class Solution:
         counts = Counter(nums)
         maximum = max(counts.values())
         ans = 0
-        for value in counts.values():
-            if value == maximum:
-                ans += value
-        return ans
+        return sum(value for value in counts.values() if value == maximum)

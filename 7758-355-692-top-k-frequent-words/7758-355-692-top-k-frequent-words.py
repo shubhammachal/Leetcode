@@ -1,11 +1,17 @@
 from collections import Counter
 class Solution:
     def topKFrequent(self, words: List[str], k: int) -> List[str]:
-        # Count the frequency of each word
-        count = Counter(words)
+        #we will use hashamp/counter and heap
+        #can use min heap and pop till the len(heap) equals k
+        #but this won't sort lexiographically
+        #so use max heap
+        freq = Counter(words)
+        heap = []
+        res = []
+        for key, value in freq.items():
+            heapq.heappush(heap, (-value, key))
         
-        # Sort by frequency (descending), and then by lexicographical order (ascending)
-        sorted_words = sorted(count.keys(), key=lambda x: (-count[x], x))
-        
-        # Return the top k frequent words
-        return sorted_words[:k]
+        for i in range(k):
+            res.append(heapq.heappop(heap))
+
+        return [pair[1] for pair in res]

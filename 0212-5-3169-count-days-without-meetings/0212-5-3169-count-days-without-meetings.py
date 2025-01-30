@@ -1,7 +1,9 @@
 class Solution:
     def countDays(self, days: int, meetings: List[List[int]]) -> int:
-        #intuition sort the intervals and merge
-        #return days - len(sorted flatten array in the range(days))
+        if not meetings:
+            return days
+        #intuition sort the intervals and merge (extension of merge intervals problem)
+        
         meetings.sort()
         merge = [meetings[0]]
         for start, end in meetings[1:]:
@@ -10,7 +12,11 @@ class Solution:
                 merge[-1][1] = max(last_end, end)
             else:
                 merge.append([start, end])
+                
+        #count total occupied days
         occupied_days = sum(end - start + 1 for start, end in merge)
+        
+        #return number of free days
         return days - occupied_days
   
         

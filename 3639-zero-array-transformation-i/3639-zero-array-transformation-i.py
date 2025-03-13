@@ -10,9 +10,6 @@ class Solution:
             if r + 1 < len(d_arr):
                 d_arr[r+1] += 1
 
-        result = [0] * len(nums)
-        result[0] = d_arr[0]
         for i in range(1, len(nums)):
-            result[i] = result[i-1] + d_arr[i]
-        print(result)
-        return all(num <= 0 for num in result)
+            d_arr[i] += d_arr[i-1]
+        return all(num <= 0 for num in d_arr)

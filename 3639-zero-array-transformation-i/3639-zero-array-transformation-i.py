@@ -1,5 +1,9 @@
 class Solution:
     def isZeroArray(self, nums: List[int], queries: List[List[int]]) -> bool:
+        #differnce array
+        #create difference array
+        #range query subtraction subtract from left and add to right + 1
+        #reconstrcut the original array and check
         d_arr = [0] * len(nums)
         d_arr[0] = nums[0]
         for i in range(1,len(nums)):

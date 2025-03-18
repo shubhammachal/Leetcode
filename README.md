@@ -73,4 +73,8 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhammachal/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/shubhammachal/Leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->

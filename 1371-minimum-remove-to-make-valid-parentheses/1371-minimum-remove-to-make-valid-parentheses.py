@@ -7,6 +7,9 @@ class Solution:
                 continue
             if char == "(":
                 stack.append(index)
+            #if stack is empty and we have closing parentheses, means
+            #it's not valid as closing parentheses can't be there before opening one
+        
             elif not stack:
                 indices_to_remove.add(index)
             else:

@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shubhammachal/Leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/shubhammachal/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubhammachal/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhammachal/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -19,6 +20,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shubhammachal/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubhammachal/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0408-valid-word-abbreviation](https://github.com/shubhammachal/Leetcode/tree/master/0408-valid-word-abbreviation) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shubhammachal/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

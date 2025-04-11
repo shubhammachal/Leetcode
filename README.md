@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/shubhammachal/Leetcode/tree/master/2383-add-two-integers) |
+| [2998-count-symmetric-integers](https://github.com/shubhammachal/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Stack
 |  |
 | ------- |
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shubhammachal/Leetcode/tree/master/0207-course-schedule) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/shubhammachal/Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->

@@ -102,6 +102,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shubhammachal/Leetcode/tree/master/0050-powx-n) |
 | [0805-escape-the-ghosts](https://github.com/shubhammachal/Leetcode/tree/master/0805-escape-the-ghosts) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2383-add-two-integers](https://github.com/shubhammachal/Leetcode/tree/master/2383-add-two-integers) |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shubhammachal/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

@@ -151,5 +151,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shubhammachal/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/shubhammachal/Leetcode/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shubhammachal/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

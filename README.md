@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shubhammachal/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shubhammachal/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/shubhammachal/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubhammachal/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -37,6 +38,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shubhammachal/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shubhammachal/Leetcode/tree/master/0049-group-anagrams) |
 | [0266-palindrome-permutation](https://github.com/shubhammachal/Leetcode/tree/master/0266-palindrome-permutation) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
@@ -146,6 +148,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shubhammachal/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/shubhammachal/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Topological Sort
 |  |

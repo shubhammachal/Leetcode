@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shubhammachal/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/shubhammachal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0266-palindrome-permutation](https://github.com/shubhammachal/Leetcode/tree/master/0266-palindrome-permutation) |
 | [0344-reverse-string](https://github.com/shubhammachal/Leetcode/tree/master/0344-reverse-string) |
 | [0408-valid-word-abbreviation](https://github.com/shubhammachal/Leetcode/tree/master/0408-valid-word-abbreviation) |
@@ -143,6 +144,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shubhammachal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shubhammachal/Leetcode/tree/master/0344-reverse-string) |
 | [0408-valid-word-abbreviation](https://github.com/shubhammachal/Leetcode/tree/master/0408-valid-word-abbreviation) |
 ## Matrix

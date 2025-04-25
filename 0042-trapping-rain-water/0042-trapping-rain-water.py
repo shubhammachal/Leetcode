@@ -3,22 +3,17 @@ class Solution:
         if not height or len(height) < 2:
             return 0
         n = len(height)
-        left_max = [0] * n
-        right_max = [0] * n
-
-        #left max
-        left_max[0] = height[0]
-        for i in range(1,n):
-            left_max[i] = max(left_max[i-1], height[i])
-
-        #right max
-        right_max[n-1] = height[n-1]
-        for i in range(n-2, -1, -1):
-            right_max[i] = max(right_max[i+1], height[i])
-
-        #trapped water
-        trapped_water = 0
-        for i in range(n):
-            trapped_water += min(left_max[i], right_max[i]) - height[i]
-            
-        return trapped_water
+        left, right = 0, n - 1
+        left_max, right_max = height[left], height[right]
+        
+        total_water = 0
+        while left < right:
+            if left_max < right_max:
+                left += 1
+                left_max = max(height[left], left_max)
+                total_water += left_max - height[left]
+            else:
+                right -= 1
+                right_max = max(height[right], right_max)
+                total_water += right_max - height[right]
+        return total_water

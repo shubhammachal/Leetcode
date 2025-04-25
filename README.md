@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhammachal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/shubhammachal/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shubhammachal/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/shubhammachal/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -93,6 +94,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhammachal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shubhammachal/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -149,6 +151,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhammachal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/shubhammachal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shubhammachal/Leetcode/tree/master/0344-reverse-string) |
 | [0408-valid-word-abbreviation](https://github.com/shubhammachal/Leetcode/tree/master/0408-valid-word-abbreviation) |

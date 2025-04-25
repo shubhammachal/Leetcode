@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhammachal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/shubhammachal/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/shubhammachal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/shubhammachal/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/shubhammachal/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubhammachal/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -133,6 +134,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhammachal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shubhammachal/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Depth-First Search
 |  |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhammachal/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/shubhammachal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shubhammachal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shubhammachal/Leetcode/tree/master/0344-reverse-string) |
 | [0408-valid-word-abbreviation](https://github.com/shubhammachal/Leetcode/tree/master/0408-valid-word-abbreviation) |
@@ -185,6 +188,11 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shubhammachal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/shubhammachal/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shubhammachal/Leetcode/tree/master/0119-pascals-triangle-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/shubhammachal/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

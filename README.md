@@ -18,6 +18,7 @@
 | [0805-escape-the-ghosts](https://github.com/shubhammachal/Leetcode/tree/master/0805-escape-the-ghosts) |
 | [1656-count-good-triplets](https://github.com/shubhammachal/Leetcode/tree/master/1656-count-good-triplets) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2048-build-array-from-permutation](https://github.com/shubhammachal/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhammachal/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhammachal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -204,4 +205,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhammachal/Leetcode/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/shubhammachal/Leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->

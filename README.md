@@ -27,6 +27,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shubhammachal/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/shubhammachal/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shubhammachal/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/shubhammachal/Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shubhammachal/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3430-count-days-without-meetings](https://github.com/shubhammachal/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -108,6 +109,7 @@
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shubhammachal/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shubhammachal/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

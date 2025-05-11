@@ -16,6 +16,7 @@
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0805-escape-the-ghosts](https://github.com/shubhammachal/Leetcode/tree/master/0805-escape-the-ghosts) |
+| [1293-three-consecutive-odds](https://github.com/shubhammachal/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1656-count-good-triplets](https://github.com/shubhammachal/Leetcode/tree/master/1656-count-good-triplets) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2048-build-array-from-permutation](https://github.com/shubhammachal/Leetcode/tree/master/2048-build-array-from-permutation) |

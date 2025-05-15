@@ -28,6 +28,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/shubhammachal/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shubhammachal/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhammachal/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/shubhammachal/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shubhammachal/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/shubhammachal/Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
@@ -73,6 +74,7 @@
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shubhammachal/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhammachal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhammachal/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shubhammachal/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhammachal/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shubhammachal/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Heap (Priority Queue)
 |  |
@@ -208,6 +211,7 @@
 | [0042-trapping-rain-water](https://github.com/shubhammachal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/shubhammachal/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shubhammachal/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhammachal/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Monotonic Stack
 |  |
 | ------- |

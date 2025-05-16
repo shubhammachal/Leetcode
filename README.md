@@ -49,6 +49,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/shubhammachal/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shubhammachal/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/shubhammachal/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0266-palindrome-permutation](https://github.com/shubhammachal/Leetcode/tree/master/0266-palindrome-permutation) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhammachal/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shubhammachal/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/shubhammachal/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/shubhammachal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0266-palindrome-permutation](https://github.com/shubhammachal/Leetcode/tree/master/0266-palindrome-permutation) |
 | [0344-reverse-string](https://github.com/shubhammachal/Leetcode/tree/master/0344-reverse-string) |
@@ -78,6 +80,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/shubhammachal/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhammachal/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shubhammachal/Leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |

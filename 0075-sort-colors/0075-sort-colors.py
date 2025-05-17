@@ -11,8 +11,9 @@ class Solution:
             if nums[index] == 0:
                 nums[index], nums[left] = nums[left], nums[index]
                 left += 1
+                index += 1
             elif nums[index] == 2:
                 nums[index], nums[right] = nums[right], nums[index]
                 right -= 1
-                index -= 1
-            index += 1
+            else:
+                index += 1

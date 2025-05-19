@@ -35,6 +35,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shubhammachal/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/shubhammachal/Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shubhammachal/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/shubhammachal/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/shubhammachal/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3639-zero-array-transformation-i](https://github.com/shubhammachal/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
@@ -114,6 +115,7 @@
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shubhammachal/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/shubhammachal/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/shubhammachal/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Greedy
 |  |
@@ -157,6 +159,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2383-add-two-integers](https://github.com/shubhammachal/Leetcode/tree/master/2383-add-two-integers) |
 | [2998-count-symmetric-integers](https://github.com/shubhammachal/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/shubhammachal/Leetcode/tree/master/3321-type-of-triangle) |
 ## Stack
 |  |
 | ------- |

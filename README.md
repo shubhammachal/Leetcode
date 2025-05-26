@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhammachal/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/shubhammachal/Leetcode/tree/master/0155-min-stack) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shubhammachal/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Depth-First Search
 |  |
@@ -240,4 +241,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubhammachal/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shubhammachal/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

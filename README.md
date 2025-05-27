@@ -14,6 +14,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubhammachal/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/shubhammachal/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shubhammachal/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shubhammachal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/shubhammachal/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubhammachal/Leetcode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shubhammachal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0805-escape-the-ghosts](https://github.com/shubhammachal/Leetcode/tree/master/0805-escape-the-ghosts) |
 | [1500-count-largest-group](https://github.com/shubhammachal/Leetcode/tree/master/1500-count-largest-group) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhammachal/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shubhammachal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shubhammachal/Leetcode/tree/master/0155-min-stack) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shubhammachal/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Depth-First Search

@@ -1,8 +1,5 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        #edge case
-        if len(tokens) == 1:
-            return int(tokens[0])
         #set operators
         operators = set(['+', '-', '*', '/'])
         #initialize stack and res
@@ -24,4 +21,4 @@ class Solution:
                 elif char == '/':
                     res = int(operand1 / operand2)
                 stack.append(res)
-        return res
+        return stack.pop()

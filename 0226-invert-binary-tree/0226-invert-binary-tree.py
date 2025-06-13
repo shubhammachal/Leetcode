@@ -11,12 +11,17 @@ class Solution:
         if root is None:
             return None
 
-        root.left, root.right = root.right, root.left
+        queue = collections.deque([root])
+        while queue:
+            current = queue.popleft()
+            current.left, current.right = current.right, current.left
 
-        #recursively traversing left and right
-        self.invertTree(root.left)
-        self.invertTree(root.right)
+            if current.left:
+                queue.append(current.left)
+            if current.right:
+                queue.append(current.right)
         return root
+
 
     
 

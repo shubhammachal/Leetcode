@@ -148,6 +148,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhammachal/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhammachal/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0207-course-schedule](https://github.com/shubhammachal/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shubhammachal/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0543-diameter-of-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |

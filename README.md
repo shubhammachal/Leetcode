@@ -19,6 +19,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhammachal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhammachal/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/shubhammachal/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/shubhammachal/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0805-escape-the-ghosts](https://github.com/shubhammachal/Leetcode/tree/master/0805-escape-the-ghosts) |
@@ -154,6 +155,7 @@
 | [0110-balanced-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/shubhammachal/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -169,6 +171,7 @@
 | [0110-balanced-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/shubhammachal/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -194,6 +197,7 @@
 | [0042-trapping-rain-water](https://github.com/shubhammachal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhammachal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shubhammachal/Leetcode/tree/master/0155-min-stack) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/shubhammachal/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0883-car-fleet](https://github.com/shubhammachal/Leetcode/tree/master/0883-car-fleet) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shubhammachal/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Depth-First Search
@@ -248,6 +252,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shubhammachal/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/shubhammachal/Leetcode/tree/master/0050-powx-n) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/shubhammachal/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -263,6 +268,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhammachal/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/shubhammachal/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0883-car-fleet](https://github.com/shubhammachal/Leetcode/tree/master/0883-car-fleet) |
 ## Simulation
 |  |
@@ -280,4 +286,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shubhammachal/Leetcode/tree/master/0155-min-stack) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/shubhammachal/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 <!---LeetCode Topics End-->

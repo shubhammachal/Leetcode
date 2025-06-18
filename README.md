@@ -41,6 +41,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shubhammachal/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/shubhammachal/Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shubhammachal/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/shubhammachal/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/shubhammachal/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/shubhammachal/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3639-zero-array-transformation-i](https://github.com/shubhammachal/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -127,6 +128,7 @@
 | [0883-car-fleet](https://github.com/shubhammachal/Leetcode/tree/master/0883-car-fleet) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shubhammachal/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/shubhammachal/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/shubhammachal/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/shubhammachal/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Greedy
@@ -139,6 +141,7 @@
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shubhammachal/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhammachal/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shubhammachal/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/shubhammachal/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

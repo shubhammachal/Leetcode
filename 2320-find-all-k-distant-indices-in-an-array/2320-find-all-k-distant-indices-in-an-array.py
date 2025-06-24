@@ -3,11 +3,9 @@ class Solution:
         j_index = []
         n = len(nums)
         res = set()
-        for index in range(n):
-            if nums[index] == key:
-                j_index.append(index)
-        for j in j_index:
-            for i in range(max(0, j - k), min(n, j + k + 1)):
-                
+        for i in range(n):
+            for j in range(n):
+                if nums[j] == key and abs(i-j) <= k:
                     res.add(i)
+                    break
         return sorted(res)

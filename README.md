@@ -31,6 +31,7 @@
 | [2048-build-array-from-permutation](https://github.com/shubhammachal/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shubhammachal/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhammachal/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhammachal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shubhammachal/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -231,6 +232,7 @@
 | [0344-reverse-string](https://github.com/shubhammachal/Leetcode/tree/master/0344-reverse-string) |
 | [0408-valid-word-abbreviation](https://github.com/shubhammachal/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0567-permutation-in-string](https://github.com/shubhammachal/Leetcode/tree/master/0567-permutation-in-string) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Matrix
 |  |
 | ------- |

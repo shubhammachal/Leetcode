@@ -25,6 +25,7 @@
 | [0805-escape-the-ghosts](https://github.com/shubhammachal/Leetcode/tree/master/0805-escape-the-ghosts) |
 | [0883-car-fleet](https://github.com/shubhammachal/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/shubhammachal/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1127-last-stone-weight](https://github.com/shubhammachal/Leetcode/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/shubhammachal/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1656-count-good-triplets](https://github.com/shubhammachal/Leetcode/tree/master/1656-count-good-triplets) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubhammachal/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
+| [1127-last-stone-weight](https://github.com/shubhammachal/Leetcode/tree/master/1127-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhammachal/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Tree
 |  |

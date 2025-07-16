@@ -22,6 +22,7 @@
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/shubhammachal/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0723-candy-crush](https://github.com/shubhammachal/Leetcode/tree/master/0723-candy-crush) |
 | [0805-escape-the-ghosts](https://github.com/shubhammachal/Leetcode/tree/master/0805-escape-the-ghosts) |
 | [0883-car-fleet](https://github.com/shubhammachal/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/shubhammachal/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -247,12 +248,14 @@
 | [0344-reverse-string](https://github.com/shubhammachal/Leetcode/tree/master/0344-reverse-string) |
 | [0408-valid-word-abbreviation](https://github.com/shubhammachal/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0567-permutation-in-string](https://github.com/shubhammachal/Leetcode/tree/master/0567-permutation-in-string) |
+| [0723-candy-crush](https://github.com/shubhammachal/Leetcode/tree/master/0723-candy-crush) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shubhammachal/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/shubhammachal/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0723-candy-crush](https://github.com/shubhammachal/Leetcode/tree/master/0723-candy-crush) |
 ## Topological Sort
 |  |
 | ------- |
@@ -295,6 +298,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0723-candy-crush](https://github.com/shubhammachal/Leetcode/tree/master/0723-candy-crush) |
 | [2048-build-array-from-permutation](https://github.com/shubhammachal/Leetcode/tree/master/2048-build-array-from-permutation) |
 ## Queue
 |  |

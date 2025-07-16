@@ -82,6 +82,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/shubhammachal/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shubhammachal/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/shubhammachal/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhammachal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shubhammachal/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhammachal/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/shubhammachal/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3617-find-the-original-typed-string-i](https://github.com/shubhammachal/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |

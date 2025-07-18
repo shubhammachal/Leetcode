@@ -21,6 +21,7 @@
 | [0239-sliding-window-maximum](https://github.com/shubhammachal/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/shubhammachal/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/shubhammachal/Leetcode/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0723-candy-crush](https://github.com/shubhammachal/Leetcode/tree/master/0723-candy-crush) |
 | [0805-escape-the-ghosts](https://github.com/shubhammachal/Leetcode/tree/master/0805-escape-the-ghosts) |
@@ -74,6 +75,7 @@
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhammachal/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shubhammachal/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/shubhammachal/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhammachal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/shubhammachal/Leetcode/tree/master/1500-count-largest-group) |
@@ -119,6 +121,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/shubhammachal/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhammachal/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhammachal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -135,6 +138,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/shubhammachal/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shubhammachal/Leetcode/tree/master/0075-sort-colors) |
+| [0621-task-scheduler](https://github.com/shubhammachal/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/shubhammachal/Leetcode/tree/master/0883-car-fleet) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -147,6 +151,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhammachal/Leetcode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/shubhammachal/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shubhammachal/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -159,6 +164,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubhammachal/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/shubhammachal/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [1127-last-stone-weight](https://github.com/shubhammachal/Leetcode/tree/master/1127-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhammachal/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |

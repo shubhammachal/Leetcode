@@ -96,6 +96,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/shubhammachal/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shubhammachal/Leetcode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
+| [1271-web-crawler](https://github.com/shubhammachal/Leetcode/tree/master/1271-web-crawler) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/shubhammachal/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhammachal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shubhammachal/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -179,6 +180,7 @@
 | [0207-course-schedule](https://github.com/shubhammachal/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shubhammachal/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [1271-web-crawler](https://github.com/shubhammachal/Leetcode/tree/master/1271-web-crawler) |
 ## Binary Tree
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shubhammachal/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0543-diameter-of-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/shubhammachal/Leetcode/tree/master/0663-equal-tree-partition) |
+| [1271-web-crawler](https://github.com/shubhammachal/Leetcode/tree/master/1271-web-crawler) |
 ## Union Find
 |  |
 | ------- |
@@ -329,4 +332,8 @@
 |  |
 | ------- |
 | [1209-design-bounded-blocking-queue](https://github.com/shubhammachal/Leetcode/tree/master/1209-design-bounded-blocking-queue) |
+## Interactive
+|  |
+| ------- |
+| [1271-web-crawler](https://github.com/shubhammachal/Leetcode/tree/master/1271-web-crawler) |
 <!---LeetCode Topics End-->

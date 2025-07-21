@@ -52,6 +52,7 @@
 | [3430-count-days-without-meetings](https://github.com/shubhammachal/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3639-zero-array-transformation-i](https://github.com/shubhammachal/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/shubhammachal/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3831-find-x-value-of-array-i](https://github.com/shubhammachal/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shubhammachal/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/shubhammachal/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3321-type-of-triangle](https://github.com/shubhammachal/Leetcode/tree/master/3321-type-of-triangle) |
+| [3831-find-x-value-of-array-i](https://github.com/shubhammachal/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -298,6 +300,7 @@
 | [0119-pascals-triangle-ii](https://github.com/shubhammachal/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shubhammachal/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhammachal/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3831-find-x-value-of-array-i](https://github.com/shubhammachal/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |

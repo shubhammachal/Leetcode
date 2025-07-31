@@ -72,6 +72,7 @@
 | [0036-valid-sudoku](https://github.com/shubhammachal/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shubhammachal/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shubhammachal/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/shubhammachal/Leetcode/tree/master/0146-lru-cache) |
 | [0266-palindrome-permutation](https://github.com/shubhammachal/Leetcode/tree/master/0266-palindrome-permutation) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhammachal/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -293,6 +294,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shubhammachal/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/shubhammachal/Leetcode/tree/master/0146-lru-cache) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shubhammachal/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shubhammachal/Leetcode/tree/master/0155-min-stack) |
 ## Binary Search Tree
 |  |
@@ -349,4 +352,8 @@
 |  |
 | ------- |
 | [1271-web-crawler](https://github.com/shubhammachal/Leetcode/tree/master/1271-web-crawler) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shubhammachal/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

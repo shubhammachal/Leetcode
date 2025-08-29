@@ -25,6 +25,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0723-candy-crush](https://github.com/shubhammachal/Leetcode/tree/master/0723-candy-crush) |
 | [0805-escape-the-ghosts](https://github.com/shubhammachal/Leetcode/tree/master/0805-escape-the-ghosts) |
+| [0860-design-circular-queue](https://github.com/shubhammachal/Leetcode/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/shubhammachal/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/shubhammachal/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1127-last-stone-weight](https://github.com/shubhammachal/Leetcode/tree/master/1127-last-stone-weight) |
@@ -295,6 +296,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shubhammachal/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/shubhammachal/Leetcode/tree/master/0146-lru-cache) |
+| [0860-design-circular-queue](https://github.com/shubhammachal/Leetcode/tree/master/0860-design-circular-queue) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubhammachal/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0860-design-circular-queue](https://github.com/shubhammachal/Leetcode/tree/master/0860-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -328,6 +331,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/shubhammachal/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shubhammachal/Leetcode/tree/master/0155-min-stack) |
+| [0860-design-circular-queue](https://github.com/shubhammachal/Leetcode/tree/master/0860-design-circular-queue) |
 ## Binary Search Tree
 |  |
 | ------- |

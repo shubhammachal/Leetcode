@@ -31,6 +31,7 @@
 | [0907-koko-eating-bananas](https://github.com/shubhammachal/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1127-last-stone-weight](https://github.com/shubhammachal/Leetcode/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/shubhammachal/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhammachal/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1656-count-good-triplets](https://github.com/shubhammachal/Leetcode/tree/master/1656-count-good-triplets) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2048-build-array-from-permutation](https://github.com/shubhammachal/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -82,6 +83,7 @@
 | [0621-task-scheduler](https://github.com/shubhammachal/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/shubhammachal/Leetcode/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhammachal/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhammachal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/shubhammachal/Leetcode/tree/master/1500-count-largest-group) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhammachal/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -148,6 +150,7 @@
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/shubhammachal/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/shubhammachal/Leetcode/tree/master/0883-car-fleet) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhammachal/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhammachal/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shubhammachal/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -161,6 +164,7 @@
 | [0621-task-scheduler](https://github.com/shubhammachal/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/shubhammachal/Leetcode/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhammachal/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shubhammachal/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shubhammachal/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |

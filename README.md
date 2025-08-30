@@ -235,6 +235,7 @@
 | [2998-count-symmetric-integers](https://github.com/shubhammachal/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shubhammachal/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3199-distribute-candies-among-children-i](https://github.com/shubhammachal/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/shubhammachal/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/shubhammachal/Leetcode/tree/master/3321-type-of-triangle) |
 | [3831-find-x-value-of-array-i](https://github.com/shubhammachal/Leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Stack

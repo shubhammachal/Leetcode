@@ -39,6 +39,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/shubhammachal/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhammachal/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/shubhammachal/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhammachal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shubhammachal/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -89,6 +90,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhammachal/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shubhammachal/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhammachal/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/shubhammachal/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shubhammachal/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shubhammachal/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -224,6 +226,7 @@
 | [1500-count-largest-group](https://github.com/shubhammachal/Leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shubhammachal/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/shubhammachal/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2383-add-two-integers](https://github.com/shubhammachal/Leetcode/tree/master/2383-add-two-integers) |
 | [2998-count-symmetric-integers](https://github.com/shubhammachal/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shubhammachal/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -287,6 +290,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/shubhammachal/Leetcode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/shubhammachal/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/shubhammachal/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2998-count-symmetric-integers](https://github.com/shubhammachal/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/shubhammachal/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 ## Game Theory
@@ -368,4 +372,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shubhammachal/Leetcode/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/shubhammachal/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 <!---LeetCode Topics End-->

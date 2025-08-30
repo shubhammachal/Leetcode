@@ -29,6 +29,7 @@
 | [0876-hand-of-straights](https://github.com/shubhammachal/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/shubhammachal/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/shubhammachal/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/shubhammachal/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1127-last-stone-weight](https://github.com/shubhammachal/Leetcode/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/shubhammachal/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhammachal/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -67,6 +68,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhammachal/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/shubhammachal/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/shubhammachal/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhammachal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shubhammachal/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -141,6 +143,7 @@
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0912-random-pick-with-weight](https://github.com/shubhammachal/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/shubhammachal/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Sorting
@@ -223,6 +226,7 @@
 | [0050-powx-n](https://github.com/shubhammachal/Leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhammachal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0805-escape-the-ghosts](https://github.com/shubhammachal/Leetcode/tree/master/0805-escape-the-ghosts) |
+| [0912-random-pick-with-weight](https://github.com/shubhammachal/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1500-count-largest-group](https://github.com/shubhammachal/Leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/shubhammachal/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/shubhammachal/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -376,4 +380,8 @@
 |  |
 | ------- |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/shubhammachal/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/shubhammachal/Leetcode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->

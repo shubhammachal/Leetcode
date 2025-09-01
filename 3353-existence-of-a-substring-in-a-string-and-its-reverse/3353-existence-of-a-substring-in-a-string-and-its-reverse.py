@@ -7,7 +7,7 @@ class Solution:
 
         left = 0
         right = 1
-        while right <= n-1:
+        while right <n:
             if s[left:right+1] in rev:
                 return True
             left += 1

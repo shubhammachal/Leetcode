@@ -1,15 +1,20 @@
 class Solution:
     def isSubstringPresent(self, s: str) -> bool:
-        rev = s[::-1]
         n = len(s)
         if n < 2:
             return False
 
-        left = 0
-        right = 1
-        while right <n:
-            if s[left:right+1] in rev:
+        for i in range(n-1):
+            if s[i] == s[i+1]:
                 return True
-            left += 1
-            right += 1
+        substrings = set()
+        for i in range(n-1):
+            substrings.add(s[i : i+2])
+
+        for substring in substrings:
+            reversed_substring = substring[::-1]
+            if reversed_substring in substrings:
+                return True
         return False
+
+        

@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhammachal/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/shubhammachal/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/shubhammachal/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0268-missing-number](https://github.com/shubhammachal/Leetcode/tree/master/0268-missing-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/shubhammachal/Leetcode/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -66,6 +67,7 @@
 | [0074-search-a-2d-matrix](https://github.com/shubhammachal/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shubhammachal/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhammachal/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/shubhammachal/Leetcode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/shubhammachal/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/shubhammachal/Leetcode/tree/master/0912-random-pick-with-weight) |
@@ -80,6 +82,7 @@
 | [0076-minimum-window-substring](https://github.com/shubhammachal/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/shubhammachal/Leetcode/tree/master/0146-lru-cache) |
 | [0266-palindrome-permutation](https://github.com/shubhammachal/Leetcode/tree/master/0266-palindrome-permutation) |
+| [0268-missing-number](https://github.com/shubhammachal/Leetcode/tree/master/0268-missing-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/shubhammachal/Leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubhammachal/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shubhammachal/Leetcode/tree/master/0567-permutation-in-string) |
@@ -152,6 +155,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/shubhammachal/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shubhammachal/Leetcode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/shubhammachal/Leetcode/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/shubhammachal/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/shubhammachal/Leetcode/tree/master/0876-hand-of-straights) |
@@ -220,12 +224,14 @@
 |  |
 | ------- |
 | [0266-palindrome-permutation](https://github.com/shubhammachal/Leetcode/tree/master/0266-palindrome-permutation) |
+| [0268-missing-number](https://github.com/shubhammachal/Leetcode/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhammachal/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubhammachal/Leetcode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhammachal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/shubhammachal/Leetcode/tree/master/0268-missing-number) |
 | [0805-escape-the-ghosts](https://github.com/shubhammachal/Leetcode/tree/master/0805-escape-the-ghosts) |
 | [0912-random-pick-with-weight](https://github.com/shubhammachal/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1500-count-largest-group](https://github.com/shubhammachal/Leetcode/tree/master/1500-count-largest-group) |

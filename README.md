@@ -18,6 +18,7 @@
 | [0119-pascals-triangle-ii](https://github.com/shubhammachal/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhammachal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhammachal/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/shubhammachal/Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/shubhammachal/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/shubhammachal/Leetcode/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0268-missing-number](https://github.com/shubhammachal/Leetcode/tree/master/0268-missing-number) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhammachal/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/shubhammachal/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shubhammachal/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shubhammachal/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/shubhammachal/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shubhammachal/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhammachal/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -274,6 +277,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shubhammachal/Leetcode/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shubhammachal/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Graph
 |  |
@@ -298,6 +302,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/shubhammachal/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/shubhammachal/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/shubhammachal/Leetcode/tree/master/0200-number-of-islands) |
 | [0723-candy-crush](https://github.com/shubhammachal/Leetcode/tree/master/0723-candy-crush) |
 ## Topological Sort
 |  |

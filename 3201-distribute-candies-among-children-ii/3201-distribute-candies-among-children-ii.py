@@ -8,7 +8,10 @@ class Solution:
             # i + j <= n
             #3rd child gets n - i - j so 0 <= n - i - j <= limit
             # n - i - limit <= j <= n - i
-        for i in range(min(n,limit )+ 1):
+         #If the other two children get maximum limit candies each, the first child must get at least n - 2 * limit candies
+        start = max(0, n - 2 * limit)
+        end = min(n, limit)
+        for i in range(start, end+ 1):
 
             j_min = max(0, n - i -limit)
             j_max = min(limit, n - i)

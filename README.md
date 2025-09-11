@@ -77,6 +77,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhammachal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shubhammachal/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shubhammachal/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shubhammachal/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/shubhammachal/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shubhammachal/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shubhammachal/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shubhammachal/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/shubhammachal/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## String
@@ -128,6 +130,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhammachal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shubhammachal/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhammachal/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shubhammachal/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shubhammachal/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/shubhammachal/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3617-find-the-original-typed-string-i](https://github.com/shubhammachal/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -145,6 +148,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/shubhammachal/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shubhammachal/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shubhammachal/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shubhammachal/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
@@ -154,6 +158,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhammachal/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhammachal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shubhammachal/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shubhammachal/Leetcode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shubhammachal/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |

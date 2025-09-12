@@ -34,6 +34,7 @@
 | [0907-koko-eating-bananas](https://github.com/shubhammachal/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/shubhammachal/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1127-last-stone-weight](https://github.com/shubhammachal/Leetcode/tree/master/1127-last-stone-weight) |
+| [1249-snapshot-array](https://github.com/shubhammachal/Leetcode/tree/master/1249-snapshot-array) |
 | [1293-three-consecutive-odds](https://github.com/shubhammachal/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhammachal/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubhammachal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -74,6 +75,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/shubhammachal/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/shubhammachal/Leetcode/tree/master/0912-random-pick-with-weight) |
+| [1249-snapshot-array](https://github.com/shubhammachal/Leetcode/tree/master/1249-snapshot-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhammachal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shubhammachal/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -96,6 +98,7 @@
 | [0621-task-scheduler](https://github.com/shubhammachal/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/shubhammachal/Leetcode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/shubhammachal/Leetcode/tree/master/0876-hand-of-straights) |
+| [1249-snapshot-array](https://github.com/shubhammachal/Leetcode/tree/master/1249-snapshot-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/shubhammachal/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shubhammachal/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shubhammachal/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -382,6 +385,7 @@
 | [0146-lru-cache](https://github.com/shubhammachal/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shubhammachal/Leetcode/tree/master/0155-min-stack) |
 | [0860-design-circular-queue](https://github.com/shubhammachal/Leetcode/tree/master/0860-design-circular-queue) |
+| [1249-snapshot-array](https://github.com/shubhammachal/Leetcode/tree/master/1249-snapshot-array) |
 ## Binary Search Tree
 |  |
 | ------- |

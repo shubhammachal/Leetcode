@@ -47,6 +47,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/shubhammachal/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhammachal/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2587-design-memory-allocator](https://github.com/shubhammachal/Leetcode/tree/master/2587-design-memory-allocator) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shubhammachal/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shubhammachal/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shubhammachal/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -107,6 +108,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/shubhammachal/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shubhammachal/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/shubhammachal/Leetcode/tree/master/2332-count-lattice-points-inside-a-circle) |
+| [2587-design-memory-allocator](https://github.com/shubhammachal/Leetcode/tree/master/2587-design-memory-allocator) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shubhammachal/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shubhammachal/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/shubhammachal/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -370,6 +372,7 @@
 | ------- |
 | [0723-candy-crush](https://github.com/shubhammachal/Leetcode/tree/master/0723-candy-crush) |
 | [2048-build-array-from-permutation](https://github.com/shubhammachal/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2587-design-memory-allocator](https://github.com/shubhammachal/Leetcode/tree/master/2587-design-memory-allocator) |
 ## Queue
 |  |
 | ------- |
@@ -386,6 +389,7 @@
 | [0155-min-stack](https://github.com/shubhammachal/Leetcode/tree/master/0155-min-stack) |
 | [0860-design-circular-queue](https://github.com/shubhammachal/Leetcode/tree/master/0860-design-circular-queue) |
 | [1249-snapshot-array](https://github.com/shubhammachal/Leetcode/tree/master/1249-snapshot-array) |
+| [2587-design-memory-allocator](https://github.com/shubhammachal/Leetcode/tree/master/2587-design-memory-allocator) |
 ## Binary Search Tree
 |  |
 | ------- |

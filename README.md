@@ -234,6 +234,7 @@
 | [0226-invert-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/shubhammachal/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1271-web-crawler](https://github.com/shubhammachal/Leetcode/tree/master/1271-web-crawler) |
+| [1368-web-crawler-multithreaded](https://github.com/shubhammachal/Leetcode/tree/master/1368-web-crawler-multithreaded) |
 ## Binary Tree
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/shubhammachal/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/shubhammachal/Leetcode/tree/master/0663-equal-tree-partition) |
 | [1271-web-crawler](https://github.com/shubhammachal/Leetcode/tree/master/1271-web-crawler) |
+| [1368-web-crawler-multithreaded](https://github.com/shubhammachal/Leetcode/tree/master/1368-web-crawler-multithreaded) |
 ## Union Find
 |  |
 | ------- |
@@ -412,6 +414,7 @@
 | [1203-print-in-order](https://github.com/shubhammachal/Leetcode/tree/master/1203-print-in-order) |
 | [1209-design-bounded-blocking-queue](https://github.com/shubhammachal/Leetcode/tree/master/1209-design-bounded-blocking-queue) |
 | [1316-fizz-buzz-multithreaded](https://github.com/shubhammachal/Leetcode/tree/master/1316-fizz-buzz-multithreaded) |
+| [1368-web-crawler-multithreaded](https://github.com/shubhammachal/Leetcode/tree/master/1368-web-crawler-multithreaded) |
 ## Interactive
 |  |
 | ------- |
